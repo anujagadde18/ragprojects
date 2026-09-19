@@ -1,29 +1,31 @@
+Building one RAG project per month while learning AI engineering properly.
+Not just reading about it. Actually building things and seeing what breaks.
 
-A collection of RAG (Retrieval Augmented Generation) projects built while learning AI engineering.
+---
 
 ## Project 01 — Call It RAG Conversational Agent
 
-A conversational AI agent built on Call It's prediction data.
+Built a conversational agent on top of Call It's real prediction data.
+47 predictions. Pinecone for vector storage. Groq for the language model.
 
-Ask questions about past predictions in plain English. The agent remembers context across the conversation and retrieves answers by meaning not keywords.
+You can ask it things like "what predictions did Call It get wrong" 
+and it finds the answer by meaning not by exact keyword match.
+It also remembers the conversation so follow up questions work naturally.
+
+The interesting part: the retrieval worked perfectly. 
+The reasoning still got something wrong. That gap taught me more than any article.
 
 **Built with:** Python, Pinecone, Groq, Google Colab
-**Data:** 47 real predictions from Call It with outcomes and accuracy scores
-**Key concept:** Semantic search over structured prediction data
 
-## What I Learned
+---
 
-RAG retrieves accurately. Reasoning still needs a stronger model.
-Applicability is harder than retrieval.
-Context engineering is the real differentiator.
+## Coming next
 
-## Coming Soon
+- Project 02 — RAG over my Medium blog posts
+- Project 03 — Call It MCP server
 
-Project 02 — Medium blogs RAG app
-Project 03 — Call It MCP server
+---
 
-## About
-
-Built by Anuja Gadde. Head of Product and AI Builder.
-Portfolio: anujagadde.framer.website
-Writing: medium.com/@anujagadde18
+*Anuja Gadde — Head of Product and AI Builder*
+*Portfolio: anujagadde.framer.website*
+*Writing: medium.com/@anujagadde18*
