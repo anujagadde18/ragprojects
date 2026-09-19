@@ -1,9 +1,8 @@
 Building one RAG project per month while learning AI engineering properly.
 Not just reading about it. Actually building things and seeing what breaks.
 
----
 
-## Project 01 — Call It RAG Conversational Agent
+## Project 01 - Call It RAG Conversational Agent
 
 Built a conversational agent on top of Call It's real prediction data.
 47 predictions. Pinecone for vector storage. Groq for the language model.
@@ -17,14 +16,11 @@ The reasoning still got something wrong. That gap taught me more than any articl
 
 **Built with:** Python, Pinecone, Groq, Google Colab
 
----
-
 ## Coming next
 
 - Project 02 — RAG over my Medium blog posts
 - Project 03 — Call It MCP server
 
----
 
 *Anuja Gadde — Head of Product and AI Builder*
 *Portfolio: anujagadde.framer.website*
