@@ -21,7 +21,6 @@ The reasoning still got something wrong. That gap taught me more than any articl
 - Project 02 — RAG over my Medium blog posts
 - Project 03 — Call It MCP server
 
-
 *Anuja Gadde — Head of Product and AI Builder*
-*Portfolio: anujagadde.framer.website*
-*Writing: medium.com/@anujagadde18*
+
+[Portfolio](https://anujagadde.framer.website) · [Writing](https://medium.com/@anujagadde18)
